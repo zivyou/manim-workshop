@@ -1,0 +1,5 @@
+**/.claude
+**/media
+media/
+.idea
+.venv
